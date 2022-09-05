@@ -7,4 +7,3 @@ if(c==2):
     print("prime")
 else:
     print("not a prime")
-        
